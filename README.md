@@ -114,8 +114,8 @@ Using this in your work? Please reference us using the provided citation:
 @misc{besta2025multihead,
   title = {{Multi-Head RAG: Solving Multi-Aspect Problems with LLMs}},
   author = {Besta, Maciej and Kubicek, Ales and Gerstenberger, Robert and Chrapek, Marcin and Niggli, Roman and Okanovic, Patrik and Zhu, Yi and Iff, Patrick and Podstawksi, Michal and Weitzendorf, Lucas and Chi, Mingyuan and Gajda, Joanna and Nyczyk, Piotr and M\"{u}ller, J\"{u}rgen and Niewiadomski, Hubert and Hoefler, Torsten},
-  year = 2025,
-  month = Sep,
+  year = 2026,
+  month = Feb,
   eprinttype = {arXiv},
   eprint = {2406.05085}
 }
